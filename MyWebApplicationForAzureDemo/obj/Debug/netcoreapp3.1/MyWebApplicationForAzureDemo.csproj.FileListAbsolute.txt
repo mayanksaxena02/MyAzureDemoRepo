@@ -36,3 +36,4 @@ D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationFo
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\obj\Debug\netcoreapp3.1\MyWebApplicationForAzureDemo.genruntimeconfig.cache
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\obj\Debug\netcoreapp3.1\MyWebApplicationForAzureDemo.csproj.CopyComplete
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\mayank-samplewebapp - Web Deploy\profile.arm.json
+D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\mayank-US-samplewebapp - Web Deploy\profile.arm.json

@@ -1,7 +1,6 @@
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\appsettings.Development.json
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\appsettings.json
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\Properties\launchSettings.json
-D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\mayank-samplewebapp - Web Deploy\profile.arm.json
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.exe
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.deps.json
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.runtimeconfig.json
@@ -36,4 +35,3 @@ D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationFo
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\obj\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.pdb
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\obj\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.genruntimeconfig.cache
 D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\obj\Release\netcoreapp3.1\MyWebApplicationForAzureDemo.csproj.CopyComplete
-D:\UserData\z0046kxm\source\repo\MyWebApplicationForAzureDemo\MyWebApplicationForAzureDemo\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\mayank-US-samplewebapp - Web Deploy\profile.arm.json
